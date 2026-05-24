@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/country-roads-and-city-scars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Country Roads and City Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/country-roads-and-city-scars/) |
+| **Get License** | [Commercial Licensing for Country Roads and City Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/country-roads-and-city-scars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f79635182cebcc46dbeed59f49e86bc5230782f1f1a7f076665cc3ab6163a33c` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
