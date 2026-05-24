@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/country-roads-and-city-scars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Country Roads and City Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/country-roads-and-city-scars/) |
+| **Get License** | [Secure Licensing Rights for Country Roads and City Scars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/country-roads-and-city-scars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There's a pull on this highway leading right to your door
+> I've been driving all night just to give you some more
+> Got the engine humming low and my eyes on the prize
+> Every mile is a promise reflecting in your eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
